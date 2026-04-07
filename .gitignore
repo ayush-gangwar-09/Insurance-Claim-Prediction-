@@ -1,0 +1,10 @@
+# Dataset Files
+*.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
